@@ -4,8 +4,6 @@
 
 Premier commit ...
 
-Rakotoniaina Andy Andriamaro LD
-
 Auchère Gabriel Formation LD
 
 Kene Alyca I3D
@@ -25,3 +23,4 @@ Laniesse Dorian Formation LD
 Gangutia Pablo Formation LD
 
 
+VL Erwann 3D ;D
